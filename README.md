@@ -15,7 +15,7 @@ $ cd IMEX_taal_5m
 
 Get the data
 ```bin
-???
+wget https://www.geos.ed.ac.uk/~ddekler/imex_data/topography_dem.asc
 ```
 
 Submit the relevant sbatch script:
